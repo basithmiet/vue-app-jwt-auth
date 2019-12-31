@@ -23,3 +23,8 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# vue-app-jwt-auth" 
+
+### Start the node server
+```
+node server/app
+```
